@@ -1,2 +1,2 @@
 # GPCS5
-A placeholder.
+A placeholder to protect the repository name.
